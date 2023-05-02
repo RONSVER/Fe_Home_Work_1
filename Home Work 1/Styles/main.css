@@ -1,0 +1,69 @@
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    
+}
+
+a {
+    letter-spacing: 5px;
+    line-height: 24px;
+    margin: 24px;
+}
+
+.card {
+    border: 1px solid black;
+    text-indent: 2px;
+    padding-left: 2px;
+}
+
+.card p {
+    text-indent: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.card div {
+    text-indent: 2px;
+    padding-left: 2px;
+}
+
+.card img {
+    width:900px; /* картинка не будет выходить за пределы карточки */
+    height: 500px;
+    margin: 100px 300px 100px 260px;  /* отступы для картинки */
+    border: 100px;
+    padding: 30px 20px;
+  }
+
+  h1 {
+    color: rgb(23, 136, 98);
+  }
+
+  h2 {
+    color: rgb(23, 156, 147);
+  }
+
+  .us img {
+    width:900px; /* картинка не будет выходить за пределы карточки */
+    height: 500px;
+    margin: 100px 300px 100px 260px;  /* отступы для картинки */
+    border: 100px;
+    padding: 30px 20px;
+  }
+
+  .us p {
+    border: 1px solid black;
+    margin: auto;
+    text-indent: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .images img {
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+  }
